@@ -1,0 +1,2 @@
+Chỉ ra rõ cặp Use Case nào có mối quan hệ <<include>> (Bao hàm/Bắt buộc).   
+Chỉ ra rõ cặp Use Case nào có mối quan hệ <<extend>> (Mở rộng/Tùy chọn).   
